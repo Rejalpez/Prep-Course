@@ -1,0 +1,7 @@
+For: ejecuta un ciclo repetitivo siempre y cuando conozcamos hasta cuando debe finalizar.
+
+&&: es el operdor logico "y", AND, que se usa para hacer varias comparaciones anidadas y arroja un resutado VERDADERO si y solo si todas las comparaciones son verdaderas, de lo contrario con solo una de ellas que  sea falsa, arrojara falso.
+
+||: es el operdor logico "o", OR, que se usa para hacer varias comparaciones anidadas y arroja un resutado FALSO solo si todas las comparaciones son falsas, de lo conrario devorlvera VERDADERO.
+
+!: es el operdor logico "NOT",  que se usa para darle un valor opuesto al resultado de una comparación.
