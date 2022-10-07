@@ -1,0 +1,12 @@
+Variables: expresion creada para guardar un valor.
+
+Strings: variable tipo caracter.
+
+Funciones (argumentos, return): 
+(argumentos) son variables que se usan dentro de una funcion, 
+(return) devuelve la repuesta final del codigo que se ejecuta dentro una funcion.
+
+Declaraciones if: es un condicional cuya acción se ejecuta dependiendo si cumple o no coumple esa condición.
+
+Valores booleanos (true, false): son valores que ejecutan una accion dependiendo si el resultado de la expresion condicional de la que dependen es verdadera o falsa.
+
