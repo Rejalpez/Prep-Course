@@ -1,0 +1,1 @@
+Arrays: es una forma de guardar una lista o colección de datos.
